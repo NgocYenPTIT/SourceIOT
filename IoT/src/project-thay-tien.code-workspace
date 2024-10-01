@@ -1,0 +1,18 @@
+{
+  "folders": [
+	{
+		"path": "../../../../project-thay-tien"
+	},
+	{
+		"path": "../../../../skikan_intern_backend"
+	},
+	{
+		"path": "../../../../MosquittoWorkSpace"
+	},
+	{
+		"name": "IoT",
+		"path": ".."
+	}
+],
+  "settings": {}
+}
